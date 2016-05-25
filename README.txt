@@ -9,9 +9,3 @@ Line B4 3
 Line B3 1
 Line B3 2
 
-
-<<<<<<< HEAD
-B6 Test
-=======
-B5 TEST
->>>>>>> B5
